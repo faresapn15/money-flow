@@ -1,8 +1,8 @@
 {
-  "name": "tea-convert",
+  "name": "money-convert",
   "type": "module",
   "version": "1.0.6",
-  "description": "A simple utility library to format currency and convert numbers to words in Indonesian Rupiah.",
+  "description": "A simple utility library to convert money",
   "main": "src/formatCurrency.js",
   "scripts": {
     "start": "nodemon",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Faresapn/tea-first-project.git"
+    "url": "https://github.com/faresapn15/money-flow.git"
   },
   "keywords": [
     "currecy",
     "K format",
     "Indonesian Currency"
   ],
-  "author": "faresapn <faresaprasetyon@gmail.com>",
+  "author": "faresapn15 <faresapn15@gmail.com>",
   "license": "MIT",
   "homepage": "",
   "devDependencies": {
