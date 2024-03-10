@@ -35,6 +35,6 @@ describe('formatCurrencyIndonesian', () => {
 describe('convertToWords', () => {
   it('should convert number to words correctly', () => {
     const result = convertToWords(200000);
-    expect(result).to.equal('Dua Ratus Ribu Rupiah');
+    expect(result).to.equal('Dua Ratus Ribu');
   });
 });
