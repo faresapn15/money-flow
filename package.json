@@ -1,8 +1,8 @@
 {
   "name": "money-convert",
   "type": "module",
-  "version": "1.0.8",
-  "description": "A simple utility library to convert money",
+  "version": "1.0.9",
+  "description": "A simple utility library to convert",
   "main": "src/formatCurrency.js",
   "scripts": {
     "start": "nodemon",
