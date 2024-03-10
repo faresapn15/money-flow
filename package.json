@@ -1,7 +1,7 @@
 {
   "name": "money-convert",
   "type": "module",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "description": "A simple utility library to convert",
   "main": "src/formatCurrency.js",
   "scripts": {
@@ -33,6 +33,7 @@
         "moment": "^2.29.4",
         "node-cron": "^3.0.2",
         "node-fetch": "^3.3.2",
-        "readline-sync": "^1.4.10"
+        "readline-sync": "^1.4.10",
+     "tea-convert": "^1.0.6"
   }
 }
