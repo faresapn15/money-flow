@@ -1,7 +1,7 @@
 {
   "name": "money-convert",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple utility library to convert",
   "main": "src/formatCurrency.js",
   "scripts": {
@@ -34,6 +34,8 @@
         "node-cron": "^3.0.2",
         "node-fetch": "^3.3.2",
         "readline-sync": "^1.4.10",
-     "tea-convert": "^1.0.6"
+     "tea-convert": "^1.0.6",
+     "money-ruppe": "^1.0.6",
+    "converter-money-indonesia": "^1.0.6"
   }
 }
